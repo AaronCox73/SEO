@@ -1,2 +1,15 @@
 # SEO
-Here is an updated Version of Horiseon's Social Solution Services webpage. We have made this page more accessible and have tidied it up, making the code cleaner. 
+# Run Buddy
+
+## Purpose
+A website that offers SEO, Online Reputation Management & Social Media Marketing.
+
+## Built With
+* HTML
+* CSS
+
+## Website https://aaroncox73.github.io/SEO/
+
+
+## Contribution
+Made with ❤️ by Aaron J. Cox
